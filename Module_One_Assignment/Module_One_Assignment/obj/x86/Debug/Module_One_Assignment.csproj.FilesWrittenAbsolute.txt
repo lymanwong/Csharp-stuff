@@ -1,0 +1,5 @@
+/Users/Lye/Documents/Csharp-stuff/Module_One_Assignment/Module_One_Assignment/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Lye/Documents/Csharp-stuff/Module_One_Assignment/Module_One_Assignment/bin/Debug/Module_One_Assignment.exe.mdb
+/Users/Lye/Documents/Csharp-stuff/Module_One_Assignment/Module_One_Assignment/bin/Debug/Module_One_Assignment.exe
+/Users/Lye/Documents/Csharp-stuff/Module_One_Assignment/Module_One_Assignment/obj/x86/Debug/Module_One_Assignment.exe
+/Users/Lye/Documents/Csharp-stuff/Module_One_Assignment/Module_One_Assignment/obj/x86/Debug/Module_One_Assignment.exe.mdb
