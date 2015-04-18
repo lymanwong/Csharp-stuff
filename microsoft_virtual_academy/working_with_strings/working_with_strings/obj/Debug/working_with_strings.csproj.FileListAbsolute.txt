@@ -1,0 +1,6 @@
+c:\users\lyman\documents\visual studio 2013\Projects\working_with_strings\working_with_strings\bin\Debug\working_with_strings.exe.config
+c:\users\lyman\documents\visual studio 2013\Projects\working_with_strings\working_with_strings\bin\Debug\working_with_strings.exe
+c:\users\lyman\documents\visual studio 2013\Projects\working_with_strings\working_with_strings\bin\Debug\working_with_strings.pdb
+c:\users\lyman\documents\visual studio 2013\Projects\working_with_strings\working_with_strings\obj\Debug\working_with_strings.csprojResolveAssemblyReference.cache
+c:\users\lyman\documents\visual studio 2013\Projects\working_with_strings\working_with_strings\obj\Debug\working_with_strings.exe
+c:\users\lyman\documents\visual studio 2013\Projects\working_with_strings\working_with_strings\obj\Debug\working_with_strings.pdb
