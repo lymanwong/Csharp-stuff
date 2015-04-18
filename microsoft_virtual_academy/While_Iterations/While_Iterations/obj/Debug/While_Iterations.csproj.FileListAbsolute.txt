@@ -1,0 +1,7 @@
+c:\users\lyman\documents\visual studio 2013\Projects\While_Iterations\While_Iterations\bin\Debug\While_Iterations.exe.config
+c:\users\lyman\documents\visual studio 2013\Projects\While_Iterations\While_Iterations\bin\Debug\While_Iterations.exe
+c:\users\lyman\documents\visual studio 2013\Projects\While_Iterations\While_Iterations\bin\Debug\While_Iterations.pdb
+c:\users\lyman\documents\visual studio 2013\Projects\While_Iterations\While_Iterations\obj\Debug\While_Iterations.csprojResolveAssemblyReference.cache
+c:\users\lyman\documents\visual studio 2013\Projects\While_Iterations\While_Iterations\obj\Debug\While_Iterations.exe
+c:\users\lyman\documents\visual studio 2013\Projects\While_Iterations\While_Iterations\obj\Debug\While_Iterations.pdb
+c:\users\lyman\documents\visual studio 2013\Projects\While_Iterations\While_Iterations\bin\Debug\values.txt

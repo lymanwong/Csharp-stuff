@@ -1,0 +1,5 @@
+c:\users\lyman\documents\visual studio 2013\Projects\Creating_arrays\Creating_arrays\bin\Debug\Creating_arrays.exe.config
+c:\users\lyman\documents\visual studio 2013\Projects\Creating_arrays\Creating_arrays\bin\Debug\Creating_arrays.exe
+c:\users\lyman\documents\visual studio 2013\Projects\Creating_arrays\Creating_arrays\bin\Debug\Creating_arrays.pdb
+c:\users\lyman\documents\visual studio 2013\Projects\Creating_arrays\Creating_arrays\obj\Debug\Creating_arrays.exe
+c:\users\lyman\documents\visual studio 2013\Projects\Creating_arrays\Creating_arrays\obj\Debug\Creating_arrays.pdb
