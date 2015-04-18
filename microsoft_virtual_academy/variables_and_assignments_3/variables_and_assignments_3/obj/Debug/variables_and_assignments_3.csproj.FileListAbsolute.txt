@@ -1,0 +1,6 @@
+c:\users\lyman\documents\visual studio 2013\Projects\variables_and_assignments_3\variables_and_assignments_3\bin\Debug\variables_and_assignments_3.exe.config
+c:\users\lyman\documents\visual studio 2013\Projects\variables_and_assignments_3\variables_and_assignments_3\bin\Debug\variables_and_assignments_3.exe
+c:\users\lyman\documents\visual studio 2013\Projects\variables_and_assignments_3\variables_and_assignments_3\bin\Debug\variables_and_assignments_3.pdb
+c:\users\lyman\documents\visual studio 2013\Projects\variables_and_assignments_3\variables_and_assignments_3\obj\Debug\variables_and_assignments_3.csprojResolveAssemblyReference.cache
+c:\users\lyman\documents\visual studio 2013\Projects\variables_and_assignments_3\variables_and_assignments_3\obj\Debug\variables_and_assignments_3.exe
+c:\users\lyman\documents\visual studio 2013\Projects\variables_and_assignments_3\variables_and_assignments_3\obj\Debug\variables_and_assignments_3.pdb
