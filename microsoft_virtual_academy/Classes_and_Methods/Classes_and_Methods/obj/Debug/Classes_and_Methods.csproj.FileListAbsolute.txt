@@ -1,0 +1,6 @@
+c:\users\lyman\documents\visual studio 2013\Projects\Classes_and_Methods\Classes_and_Methods\bin\Debug\Classes_and_Methods.exe.config
+c:\users\lyman\documents\visual studio 2013\Projects\Classes_and_Methods\Classes_and_Methods\bin\Debug\Classes_and_Methods.exe
+c:\users\lyman\documents\visual studio 2013\Projects\Classes_and_Methods\Classes_and_Methods\bin\Debug\Classes_and_Methods.pdb
+c:\users\lyman\documents\visual studio 2013\Projects\Classes_and_Methods\Classes_and_Methods\obj\Debug\Classes_and_Methods.csprojResolveAssemblyReference.cache
+c:\users\lyman\documents\visual studio 2013\Projects\Classes_and_Methods\Classes_and_Methods\obj\Debug\Classes_and_Methods.exe
+c:\users\lyman\documents\visual studio 2013\Projects\Classes_and_Methods\Classes_and_Methods\obj\Debug\Classes_and_Methods.pdb
