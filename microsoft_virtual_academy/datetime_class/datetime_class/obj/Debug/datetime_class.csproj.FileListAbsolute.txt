@@ -1,0 +1,6 @@
+c:\users\lyman\documents\visual studio 2013\Projects\datetime_class\datetime_class\bin\Debug\datetime_class.exe.config
+c:\users\lyman\documents\visual studio 2013\Projects\datetime_class\datetime_class\bin\Debug\datetime_class.exe
+c:\users\lyman\documents\visual studio 2013\Projects\datetime_class\datetime_class\bin\Debug\datetime_class.pdb
+c:\users\lyman\documents\visual studio 2013\Projects\datetime_class\datetime_class\obj\Debug\datetime_class.csprojResolveAssemblyReference.cache
+c:\users\lyman\documents\visual studio 2013\Projects\datetime_class\datetime_class\obj\Debug\datetime_class.exe
+c:\users\lyman\documents\visual studio 2013\Projects\datetime_class\datetime_class\obj\Debug\datetime_class.pdb
