@@ -1,0 +1,5 @@
+/Users/Lye/Documents/Csharp-stuff/microsoft_virtual_academy/Module_Three_Assignment/Module_Three_Assignment/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Lye/Documents/Csharp-stuff/microsoft_virtual_academy/Module_Three_Assignment/Module_Three_Assignment/bin/Debug/Module_Three_Assignment.exe.mdb
+/Users/Lye/Documents/Csharp-stuff/microsoft_virtual_academy/Module_Three_Assignment/Module_Three_Assignment/bin/Debug/Module_Three_Assignment.exe
+/Users/Lye/Documents/Csharp-stuff/microsoft_virtual_academy/Module_Three_Assignment/Module_Three_Assignment/obj/x86/Debug/Module_Three_Assignment.exe
+/Users/Lye/Documents/Csharp-stuff/microsoft_virtual_academy/Module_Three_Assignment/Module_Three_Assignment/obj/x86/Debug/Module_Three_Assignment.exe.mdb
